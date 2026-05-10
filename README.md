@@ -1,6 +1,7 @@
 # 📊Sales Intelligence: Retail Performance Dashboard
 
-## <img width="1278" height="655" alt="Coffee Shop Sales Hasil" src="https://github.com/user-attachments/assets/b7d756c4-0fe1-4838-ab31-fa7791164565" />
+## <img width="1277" height="655" alt="Coffee Shop Sales Hasil" src="https://github.com/user-attachments/assets/5e6482b3-42bb-400d-bd9e-99c6c096d947" />
+
 
 ## 🎯Executive Summary
 This project delivers a comprehensive sales performance analysis for a multi-city retail coffee operation. The dashboard was developed with a focus on high-impact FMCG KPIs to drive category growth and operational excellence.
