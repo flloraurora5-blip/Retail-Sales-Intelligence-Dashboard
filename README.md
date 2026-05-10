@@ -10,7 +10,7 @@ This project delivers a comprehensive sales performance analysis for a multi-cit
 - **Revenue Drivers:** 'Desserts' category contributes significantly to top-line growth ($7,204), representing a key cross-selling opportunity.
 - **Geographic Focus:** Chicago and Los Angeles account for the largest revenue share, justifying localized marketing spend.
 
-🛠️Technical Stack
+## 🛠️Technical Stack
 - **Engine:** Microsoft Excel (Advanced Pivot Tables & Power Query).
 - **Design:** Minimalist "Old Money" Aesthetic for executive readability.
 - **Features:** Dynamic Slicers, Multi-level Trend Analysis.
